@@ -1,2 +1,2 @@
 # assistente_felicia
-este é meu primeiro repositório criado com partes de outros projetos que serão referênciados no projeto.  
+pretendo criar neste repositório uma assistente usando python
